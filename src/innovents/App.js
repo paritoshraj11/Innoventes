@@ -13,17 +13,15 @@ const Header = () => {
   );
 };
 
-class MainApp extends React.Component {
-  render() {
-    return (
-      <div className="App">
-        <div style={{ ...mainAppStyle }}>
-          <Header />
-          <Selector />
-        </div>
+const MainApp = () => {
+  return (
+    <div className="App">
+      <div style={{ ...mainAppStyle }}>
+        <Header />
+        <Selector />
       </div>
-    );
-  }
-}
+    </div>
+  );
+};
 
 export default MainApp;
