@@ -6,7 +6,7 @@ a basic room booking component, build on React js with responsive ui
 
 run commond in terminal -
 
-> > git clone https://github.com/paritoshraj11/Innoventes.git
-> > cd Innoventes/
-> > npm instatll
-> > npm run start
+> git clone https://github.com/paritoshraj11/Innoventes.git
+> cd Innoventes/
+> npm instatll
+> npm run start
